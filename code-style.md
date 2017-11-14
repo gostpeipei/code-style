@@ -148,7 +148,7 @@ export default class AddProject extends React.component{
 <Search UserName="zhangsan" />
 
 // good 
-<Search userName="zhangSan" />
+<Search userName="zhangsan" />
 
 ```
 ### 当属性的值为true时,省略该属性的赋值
